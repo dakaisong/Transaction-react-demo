@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 In the project start the mock server
-## `mock start`
+### `mock start`
 
 In the project directory, you can run:
 
